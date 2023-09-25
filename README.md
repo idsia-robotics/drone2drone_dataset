@@ -2,9 +2,6 @@
 
 
 
-Our dataset has xxx k samples
 
 
-
-
-In this github page we will report the basic code to access our "?? drone 2 drone ??" dataset available on Zenodo (???).
+Our dataset has been submitted as a stand-alone work and will be available here after the approval decision.
